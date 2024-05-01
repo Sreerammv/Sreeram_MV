@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sreerammv](https://github.com/Sreerammv)
 
-- 💬 Ask me about *C++, Java, Python, Arduino*
+- 💬 Ask me about **C++, Java, Python, Arduino**
 
 - 📫 How to reach me *mvsreeramblr@gmail.com*
 
