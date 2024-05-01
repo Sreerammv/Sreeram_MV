@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreerammv" alt="sreerammv" /></a> </p>
 
 - 🔭 I’m currently working on ***6-DOF Hexapod Arm***
-- 🌱 I’m currently learning **PCB Design Tools***
+- 🌱 I’m currently learning **PCB Design Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sreerammv](https://github.com/Sreerammv)
 
